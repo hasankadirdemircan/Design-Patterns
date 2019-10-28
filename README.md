@@ -1,4 +1,4 @@
-# Design Pattern (Tasarım Desenleri)
+# Design Patterns (Tasarım Desenleri)
 
 Java üzerinde design pattern incelemesi ve örnek kodlamalarını paylaşıp.
 Türkçe kaynak oluşturmayı amaçlıyorum.
