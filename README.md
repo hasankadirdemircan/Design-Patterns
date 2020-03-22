@@ -30,5 +30,5 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 
 ## Builder(Kurucu) Design Pattern
 
-- [Blog](http://blog.hkdemircan.com/index.php/2019/10/22/builder-design-pattern/)
+- [Blog](https://medium.com/@hkdemircan/builder-design-pattern-c85072b9ed8f)
 - [Java](https://github.com/hasankadirdemircan/Design-Patterns/tree/master/Builder-Design-Pattern)
