@@ -15,7 +15,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 
 ## Factory(Fabrika) Design Pattern
 
-- [Blog](http://blog.hkdemircan.com/index.php/2019/08/28/factory-design-pattern/)
+- [Blog](https://medium.com/@hkdemircan/factory-design-pattern-3eab4cf126ec)
 - [Java](https://github.com/hasankadirdemircan/Design-Patterns/tree/master/Factory-Design-Pattern)
 
 ## Observer(Gözlemci) Design Pattern
