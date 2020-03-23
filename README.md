@@ -20,7 +20,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 
 ## Observer(Gözlemci) Design Pattern
 
-- [Blog](http://blog.hkdemircan.com/index.php/2019/09/23/observer-design-pattern/)
+- [Blog](https://medium.com/@hkdemircan/observer-design-pattern-e50875ecedd9)
 - [Java](https://github.com/hasankadirdemircan/Design-Patterns/tree/master/Observer-Design-Pattern)
 
 ## State(Durum) Design Pattern
