@@ -25,7 +25,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 
 ## State(Durum) Design Pattern
 
-- [Blog](http://blog.hkdemircan.com/index.php/2019/09/24/state-design-pattern/)
+- [Blog](https://medium.com/@hkdemircan/state-design-pattern-496e68539115)
 - [Java](https://github.com/hasankadirdemircan/Design-Patterns/tree/master/State-Design-Pattern)
 
 ## Builder(Kurucu) Design Pattern
